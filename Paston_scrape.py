@@ -9,8 +9,6 @@ Paston_main=[]
 
 Paston_dictionary_list = []
 
-letter_id_counter=1
-
 writer = soup.find_all("a", href=re.compile("rgn=div2"))
 
 for variable in writer:
@@ -53,14 +51,13 @@ for individual_link in Paston_main:
             ##a_year = "Time information unavailable"
 
 
-        a_content = new_variable.find_all("p")
-        letter_content=""
-        for some_content in a_content:
-             letter_content = letter_content + some_content.text
+        # a_content = new_variable.find_all("p")
+        # letter_content=""
+        # for some_content in a_content:
+        #      letter_content = letter_content + some_content.text
 
         new_dictionary={"Writer":a_writer,"Recipient":a_name}
         Paston_dictionary_list.append(new_dictionary)
-        letter_id_counter = letter_id_counter + 1
 
 json.dump(Paston_dictionary_list,open("Paston_Letters_4.json","w"),indent=4)
 

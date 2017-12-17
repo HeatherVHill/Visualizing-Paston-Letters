@@ -3,7 +3,7 @@ import json
 import csv
 
 infile = open("Paston_Letters_4.json","r")
-outfile = open("Paston_Letters_gephi_attempt_2.csv","w")
+outfile = open("Paston_Letters_gephi.csv","w")
 
 writer = csv.writer(outfile)
 

@@ -1,6 +1,6 @@
 # Visualizing-Paston-Letters
 
-Visualizing the Paston Letters Network looks at the implied relationships between letter writers and recipients from the Paston Letters and Documents collection. The material for this project came from Norman Davies’ edition of Paston Letters and Papers of the Fifteenth Century, which was digitized by the University of Michigan. It was scraped and initially cleaned using Python, then cleaned up further with OpenRefine, and finally visualized in Gephi.
+[Description]
 
 This project requires the following modules:
 - Beautiful soup

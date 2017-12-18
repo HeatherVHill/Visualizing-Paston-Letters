@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1191.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-577.000000 -479.000000 1191.000000 916.000000" height="916.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M 129.845917,65.966286 L -133.999725,224.828781"
+              class="id_William_Paston_I id_John_Stanford" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 133.122650,69.356293 L -81.831512,400.367126"
+              class="id_William_Paston_I id_William_Worstede"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 140.762299,50.227406 L 234.692749,-454.502747"
+              class="id_William_Paston_I id_John_Longham" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 134.097061,51.183056 L -37.882050,-288.380676"
+              class="id_William_Paston_I id_Piers_Shelton" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 143.417679,70.000366 L 296.526031,386.164063"
+              class="id_William_Paston_I id_John_Berney" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 137.415894,70.952980 L 118.990837,205.427704"
+              class="id_William_Paston_I id_Philip_Berney" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -556.390747,-81.835541 L 125.615753,57.841549"
+              class="id_Agnes_Paston id_William_Paston_I" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -561.862427,-93.273254 L -461.225098,-288.306915"
+              class="id_Agnes_Paston id_Edmond_Paston_I" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="11.0"
+              d="M -556.260254,-82.624680 L 502.401001,51.276852"
+              class="id_Agnes_Paston id_John_Paston_I" stroke-opacity="1.0"
+              stroke="#d6003a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 536.203979,51.963791 L -428.000092,-439.925262"
+              class="id_John_Paston_I id_John_Damme" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 535.194946,55.040234 L 94.552666,-17.041567"
+              class="id_John_Paston_I id_James_Gresham" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 543.254028,46.491035 L 433.319397,-442.494080"
+              class="id_John_Paston_I id_John_Norwode" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 537.674133,63.671268 L 319.496033,255.635834"
+              class="id_John_Paston_I id_The_Earl_Of_Oxford"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 538.127014,49.316254 L 29.348042,-458.703278"
+              class="id_John_Paston_I id_Sir_John_Fastolf" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="11.0"
+              d="M 535.281311,54.577457 L 29.132542,-51.710670"
+              class="id_John_Paston_I id_Margaret_Paston" stroke-opacity="1.0"
+              stroke="#e394ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 535.574829,53.479267 L 77.183243,-96.039192"
+              class="id_John_Paston_I id_John_Pampyng" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 535.116455,55.621483 L -242.823120,-27.371180"
+              class="id_John_Paston_I id_Richard_Calle" stroke-opacity="1.0"
+              stroke="#00bd94"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 537.173340,50.413857 L -83.432892,-417.526611"
+              class="id_John_Paston_I id_John_Wykes" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 544.051575,46.343842 L 525.929260,-78.731476"
+              class="id_John_Paston_I id_John_Daubeney" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 420.681213,-193.306076 L 539.525391,44.657768"
+              class="id_Edmond_Paston id_John_Paston_I" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 149.340775,60.451691 L 511.058716,57.058910"
+              class="id_William_Paston_I id_John_Paston_I" stroke-opacity="1.0"
+              stroke="#1800db"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 130.625732,54.011406 L -0.528861,-50.375221"
+              class="id_William_Paston_I id_Margaret_Paston"
+              stroke-opacity="1.0" stroke="#00bd94"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 148.393982,64.908478 L 474.725006,213.792206"
+              class="id_William_Paston_I id_John_Paston_II" stroke-opacity="1.0"
+              stroke="#ff5584"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 128.397247,59.467049 L -390.620697,5.640790"
+              class="id_William_Paston_I id_Richard_Roos" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 129.617279,65.567009 L 31.077440,119.162056"
+              class="id_William_Paston_I id_John_Kyng" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="7.0"
+              d="M 505.241425,416.329315 L 542.047546,88.039200"
+              class="id_Clement_Paston id_John_Paston_I" stroke-opacity="1.0"
+              stroke="#548f00"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 475.395477,333.654388 L -554.145996,-78.920517"
+              class="id_Elizabeth_Poynings_or_Browne,_née_Paston id_Agnes_Paston"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 485.554291,327.068268 L 489.206390,234.130569"
+              class="id_Elizabeth_Poynings_or_Browne,_née_Paston id_John_Paston_II"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="69.0"
+              d="M -3.163069,-58.492550 L 332.699768,12.036583"
+              class="id_Margaret_Paston id_John_Paston_I" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="20.0"
+              d="M -4.273852,-55.526836 L 428.199432,186.239777"
+              class="id_Margaret_Paston id_John_Paston_II" stroke-opacity="1.0"
+              stroke="#d6003a"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -22.907196,-56.111458 L -329.630981,90.928230"
+              class="id_Margaret_Paston id_John_Paston_III" stroke-opacity="1.0"
+              stroke="#d6003a"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -20.302483,-52.704239 L -119.329803,61.943455"
+              class="id_Margaret_Paston id_Dame_Elizabeth_Brews"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="5.0"
+              d="M 493.121490,210.701584 L 537.336426,80.873871"
+              class="id_John_Paston_II id_John_Paston_I" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="37.0"
+              d="M 479.325562,219.276123 L -245.682190,124.228958"
+              class="id_John_Paston_II id_John_Paston_III" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 481.104889,214.662186 L -309.804901,-333.172577"
+              class="id_John_Paston_II id_Walter_Writtle" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="20.0"
+              d="M 480.571381,215.517395 L 48.098103,-26.249218"
+              class="id_John_Paston_II id_Margaret_Paston" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 499.320740,216.352402 L 590.830322,175.405548"
+              class="id_John_Paston_II id_Roger_Townshend" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 485.358490,211.097229 L 337.192474,-111.894501"
+              class="id_John_Paston_II id_Edmond_Paston_II" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 481.021454,214.784515 L -375.252350,-360.627411"
+              class="id_John_Paston_II id_Osbern_Berney" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="5.0"
+              d="M -355.668213,107.841202 L 520.098083,58.179039"
+              class="id_John_Paston_III id_John_Paston_I" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="37.0"
+              d="M -355.740448,109.800522 L 369.267303,204.847687"
+              class="id_John_Paston_III id_John_Paston_II" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="17.0"
+              d="M -356.683105,103.896706 L -68.895844,-34.065048"
+              class="id_John_Paston_III id_Margaret_Paston" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -360.957581,99.310173 L -128.838333,-308.524933"
+              class="id_John_Paston_III id_The_Duke_Of_Norfolk"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -373.728333,101.166580 L -556.935425,-74.596275"
+              class="id_John_Paston_III id_Agnes_Paston" stroke-opacity="1.0"
+              stroke="#b705ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -359.364960,116.447830 L -298.722839,188.043045"
+              class="id_John_Paston_III id_Lord_Hastings" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -373.624939,115.811005 L -475.513428,216.360092"
+              class="id_John_Paston_III id_Margery_Paston" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -356.994537,103.297318 L 189.059265,-203.120941"
+              class="id_John_Paston_III id_Richard_Croft" stroke-opacity="1.0"
+              stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -357.829620,102.032661 L -22.209377,-156.203873"
+              class="id_John_Paston_III id_William_Paston_III"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -356.820313,113.250381 L 132.015610,365.484009"
+              class="id_John_Paston_III id_Richard_Lightfoote"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 320.365234,-123.530670 L -344.835297,101.233208"
+              class="id_Edmond_Paston_II id_John_Paston_III"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 319.875519,-128.038208 L 1.909309,-162.962387"
+              class="id_Edmond_Paston_II id_William_Paston_III"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 320.002441,-124.905006 L -0.182824,-63.204891"
+              class="id_Edmond_Paston_II id_Margaret_Paston"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -420.614624,407.001923 L -22.303818,-50.468872"
+              class="id_Walter_Paston id_Margaret_Paston" stroke-opacity="1.0"
+              stroke="#00c4ff"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -417.237396,412.745178 L 476.529480,223.438324"
+              class="id_Walter_Paston id_John_Paston_II" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -425.448334,404.625183 L -368.801483,121.673004"
+              class="id_Walter_Paston id_John_Paston_III" stroke-opacity="1.0"
+              stroke="#73c000"/>
+        <path fill="none" stroke-width="7.0"
+              d="M -19.831736,-158.033295 L -341.186127,89.226639"
+              class="id_William_Paston_III id_John_Paston_III"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -1.072757,-163.289917 L 316.893433,-128.365738"
+              class="id_William_Paston_III id_Edmond_Paston_II"
+              stroke-opacity="1.0" stroke="#73c000"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -21.959740,-165.462326 L -451.106232,-207.598343"
+              class="id_William_Paston_III id_The_Bailiff_Of_Mautby"
+              stroke-opacity="1.0" stroke="#e0e0e0"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -477.648743,218.467331 L -386.436798,128.454437"
+              class="id_Margery_Paston id_John_Paston_III" stroke-opacity="1.0"
+              stroke="#ff8805"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -366.288757,-154.029938 L -366.158447,94.935669"
+              class="id_William_Paston_IV id_John_Paston_III"
+              stroke-opacity="1.0" stroke="#00c4ff"/>
+    </g>
+    <g id="arrows">
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_John_Stanford"
+                  points="-136.569809,226.376251 -134.773453,223.543732 -133.225998,226.113831"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_William_Worstede"
+                  points="-83.465393,402.883179 -83.089531,399.550171 -80.573494,401.184082"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_John_Longham"
+                  points="235.241623,-457.452118 236.167435,-454.228302 233.218063,-454.777191"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_Piers_Shelton"
+                  points="-39.237526,-291.056976 -36.543892,-289.058411 -39.220207,-287.702942"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_John_Berney"
+                  points="297.833588,388.864105 295.175995,386.817841 297.876068,385.510284"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_Philip_Berney"
+                  points="118.583595,208.399933 117.504723,205.224091 120.476952,205.631317"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Agnes_Paston id_William_Paston_I"
+                  points="128.554749,58.443466 125.314796,59.311047 125.916710,56.372051"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_Agnes_Paston id_Edmond_Paston_I"
+                  points="-459.849426,-290.972931 -459.892090,-287.619080 -462.558105,-288.994751"
+                  stroke="none"/>
+        <polyline fill="#d6003a" fill-opacity="1.0"
+                  class="id_Agnes_Paston id_John_Paston_I"
+                  points="535.140198,55.417767 500.330536,67.646439 504.471466,34.907269"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_John_Damme"
+                  points="-430.672424,-441.288544 -427.318451,-441.261444 -428.681732,-438.589081"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_James_Gresham"
+                  points="88.631363,-18.010193 95.036980,-20.002216 94.068352,-14.080918"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_John_Norwode"
+                  points="432.661346,-445.421021 434.782867,-442.823090 431.855927,-442.165070"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_The_Earl_Of_Oxford"
+                  points="317.243713,257.617523 318.505188,254.509674 320.486877,256.761993"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_Sir_John_Fastolf"
+                  points="27.225138,-460.823029 30.407909,-459.764740 28.288174,-457.641815"
+                  stroke="none"/>
+        <polyline fill="#e394ff" fill-opacity="1.0"
+                  class="id_John_Paston_I id_Margaret_Paston"
+                  points="-3.163068,-58.492550 32.523479,-67.858475 25.741602,-35.562866"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_John_Pampyng"
+                  points="74.331131,-96.969498 77.648392,-97.465248 76.718094,-94.613136"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_John_Paston_I id_Richard_Calle"
+                  points="-254.755417,-28.644148 -242.186630,-33.337326 -243.459610,-21.405035"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_John_Wykes"
+                  points="-85.828278,-419.332733 -82.529823,-418.724304 -84.335960,-416.328918"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_I id_John_Daubeney"
+                  points="525.068909,-84.669472 528.898254,-79.161659 522.960266,-78.301292"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Edmond_Paston id_John_Paston_I"
+                  points="540.865784,47.341667 538.183411,45.327969 540.867371,43.987568"
+                  stroke="none"/>
+        <polyline fill="#1800db" fill-opacity="1.0"
+                  class="id_William_Paston_I id_John_Paston_I"
+                  points="535.057678,56.833809 511.171265,69.058380 510.946167,45.059441"
+                  stroke="none"/>
+        <polyline fill="#00bd94" fill-opacity="1.0"
+                  class="id_William_Paston_I id_Margaret_Paston"
+                  points="-5.223436,-54.111656 1.339357,-52.722507 -2.397079,-48.027935"
+                  stroke="none"/>
+        <polyline fill="#ff5584" fill-opacity="1.0"
+                  class="id_William_Paston_I id_John_Paston_II"
+                  points="480.183716,216.282669 473.479767,216.521561 475.970245,211.062851"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_Richard_Roos"
+                  points="-396.588684,5.021862 -390.311218,2.656794 -390.930176,8.624785"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_I id_John_Kyng"
+                  points="28.442024,120.595436 30.360748,117.844345 31.794132,120.479767"
+                  stroke="none"/>
+        <polyline fill="#548f00" fill-opacity="1.0"
+                  class="id_Clement_Paston id_John_Paston_I"
+                  points="544.387329,67.169952 552.482178,89.209076 531.612915,86.869324"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_Elizabeth_Poynings_or_Browne,_née_Paston id_Agnes_Paston"
+                  points="-556.930725,-80.036453 -553.588013,-80.312881 -554.703979,-77.528152"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_Elizabeth_Poynings_or_Browne,_née_Paston id_John_Paston_II"
+                  points="489.324188,231.132874 490.705231,234.189468 487.707550,234.071671"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Margaret_Paston id_John_Paston_I"
+                  points="535.281311,54.577457 311.429321,113.327354 353.970215,-89.254189"
+                  stroke="none"/>
+        <polyline fill="#d6003a" fill-opacity="1.0"
+                  class="id_Margaret_Paston id_John_Paston_II"
+                  points="480.571381,215.517395 413.560608,212.425751 442.838257,160.053802"
+                  stroke="none"/>
+        <polyline fill="#d6003a" fill-opacity="1.0"
+                  class="id_Margaret_Paston id_John_Paston_III"
+                  points="-356.683105,103.896706 -336.115204,77.402161 -323.146759,104.454300"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_Margaret_Paston id_Dame_Elizabeth_Brews"
+                  points="-121.290817,64.213791 -120.464973,60.962948 -118.194633,62.923962"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_John_Paston_II id_John_Paston_I"
+                  points="542.172180,66.674728 544.435974,83.291740 530.236877,78.456001"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_John_Paston_II id_John_Paston_III"
+                  points="-355.740448,109.800522 -238.467972,69.199829 -252.896408,179.258087"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_II id_Walter_Writtle"
+                  points="-312.271057,-334.880798 -308.950775,-334.405670 -310.659027,-331.939484"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_John_Paston_II id_Margaret_Paston"
+                  points="-4.273851,-55.526836 62.736912,-52.435196 33.459293,-0.063242"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_II id_Roger_Townshend"
+                  points="593.568665,174.180237 591.442993,176.774734 590.217651,174.036362"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_John_Paston_II id_Edmond_Paston_II"
+                  points="334.690735,-117.348068 339.919250,-113.145355 334.465698,-110.643646"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_II id_Osbern_Berney"
+                  points="-377.742371,-362.300659 -374.415710,-361.872406 -376.088989,-359.382416"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_John_Paston_III id_John_Paston_I"
+                  points="535.074036,57.329800 520.522705,65.667007 519.673462,50.691071"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_John_Paston_III id_John_Paston_II"
+                  points="479.325562,219.276123 362.053101,259.876831 376.481506,149.818558"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_John_Paston_III id_Margaret_Paston"
+                  points="-22.907194,-56.111454 -57.872643,-11.070723 -79.919044,-57.059372"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_III id_The_Duke_Of_Norfolk"
+                  points="-127.354401,-311.132233 -127.534691,-307.782959 -130.141983,-309.266907"
+                  stroke="none"/>
+        <polyline fill="#b705ff" fill-opacity="1.0"
+                  class="id_John_Paston_III id_Agnes_Paston"
+                  points="-559.100281,-76.673157 -555.896973,-75.678696 -557.973877,-73.513855"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_III id_Lord_Hastings"
+                  points="-296.783875,190.332230 -299.867432,189.012527 -297.578247,187.073563"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_John_Paston_III id_Margery_Paston"
+                  points="-477.648743,218.467331 -476.567047,215.292435 -474.459808,217.427750"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_III id_Richard_Croft"
+                  points="191.675507,-204.589035 189.793320,-201.812820 188.325211,-204.429062"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_John_Paston_III id_William_Paston_III"
+                  points="-19.831736,-158.033295 -21.294662,-155.015045 -23.124092,-157.392700"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_John_Paston_III id_Richard_Lightfoote"
+                  points="134.681625,366.859619 131.327789,366.817017 132.703430,364.151001"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Edmond_Paston_II id_John_Paston_III"
+                  points="-356.203857,105.074524 -346.755951,95.548927 -342.914642,106.917488"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Edmond_Paston_II id_William_Paston_III"
+                  points="-1.072757,-163.289917 2.073079,-164.453415 1.745540,-161.471359"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Edmond_Paston_II id_Margaret_Paston"
+                  points="-3.128629,-62.637234 -0.466654,-64.677795 0.101006,-61.731991"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_Walter_Paston id_Margaret_Paston"
+                  points="-20.333847,-52.731438 -21.172535,-49.483887 -23.435101,-51.453857"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Walter_Paston id_John_Paston_II"
+                  points="479.464355,222.816696 476.840302,224.905762 476.218658,221.970886"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_Walter_Paston id_John_Paston_III"
+                  points="-368.212555,118.731369 -367.330658,121.967461 -370.272308,121.378548"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_William_Paston_III id_John_Paston_III"
+                  points="-357.829620,102.032661 -347.589142,80.904892 -334.783112,97.548386"
+                  stroke="none"/>
+        <polyline fill="#73c000" fill-opacity="1.0"
+                  class="id_William_Paston_III id_Edmond_Paston_II"
+                  points="319.875519,-128.038208 316.729675,-126.874702 317.057190,-129.856766"
+                  stroke="none"/>
+        <polyline fill="#e0e0e0" fill-opacity="1.0"
+                  class="id_William_Paston_III id_The_Bailiff_Of_Mautby"
+                  points="-454.091888,-207.891495 -450.959656,-209.091171 -451.252808,-206.105515"
+                  stroke="none"/>
+        <polyline fill="#ff8805" fill-opacity="1.0"
+                  class="id_Margery_Paston id_John_Paston_III"
+                  points="-373.624939,115.811005 -380.115082,134.860367 -392.758514,122.048508"
+                  stroke="none"/>
+        <polyline fill="#00c4ff" fill-opacity="1.0"
+                  class="id_William_Paston_IV id_John_Paston_III"
+                  points="-366.156860,97.935669 -367.658447,94.936455 -364.658447,94.934883"
+                  stroke="none"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="138.84123"
+                class="id_William_Paston_I" cy="60.55017" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-145.56512"
+                class="id_John_Stanford" cy="231.79236" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-89.183975"
+                class="id_William_Worstede" cy="411.6893" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="237.16269"
+                class="id_John_Longham" cy="-467.77487" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-43.981697"
+                class="id_Piers_Shelton" cy="-300.4241" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="302.41003"
+                class="id_John_Berney" cy="398.3143" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="117.15826"
+                class="id_Philip_Berney" cy="218.80273" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-566.67725"
+                class="id_Agnes_Paston" cy="-83.942245" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-455.03464"
+                class="id_Edmond_Paston_I" cy="-300.30392" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="545.5572"
+                class="id_John_Paston_I" cy="56.73533" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-440.02563"
+                class="id_John_Damme" cy="-446.0601" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="78.2691"
+                class="id_James_Gresham" cy="-19.70529" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="430.35822"
+                class="id_John_Norwode" cy="-455.6653" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="309.36066"
+                class="id_The_Earl_Of_Oxford" cy="264.55347" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="19.794973"
+                class="id_Sir_John_Fastolf" cy="-468.2421" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-13.438943"
+                class="id_Margaret_Paston" cy="-60.65042" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="64.34875"
+                class="id_John_Pampyng" cy="-100.225555" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-265.19617"
+                class="id_Richard_Calle" cy="-29.757996" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-94.212135"
+                class="id_John_Wykes" cy="-425.6542" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="523.5633"
+                class="id_John_Daubeney" cy="-95.06096" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="415.9898"
+                class="id_Edmond_Paston" cy="-202.69974" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="489.73648"
+                class="id_John_Paston_II" cy="220.64098" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-407.03268"
+                class="id_Richard_Roos" cy="3.9387379" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="19.21807"
+                class="id_John_Kyng" cy="125.612274" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="504.07156"
+                class="id_Clement_Paston" cy="426.76395" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="485.142"
+                class="id_Elizabeth_Poynings_or_Browne,_née_Paston"
+                cy="337.56018" stroke="#000000" stroke-opacity="1.0"
+                stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-366.15137"
+                class="id_John_Paston_III" cy="108.43567" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-128.15436"
+                class="id_Dame_Elizabeth_Brews" cy="72.15997" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-320.90265"
+                class="id_Walter_Writtle" cy="-340.8596" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="603.15295"
+                class="id_Roger_Townshend" cy="169.89166" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="330.31274"
+                class="id_Edmond_Paston_II" cy="-126.891815" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-386.4574"
+                class="id_Osbern_Berney" cy="-368.15714" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-122.16062"
+                class="id_The_Duke_Of_Norfolk" cy="-320.25772" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-289.99747"
+                class="id_Lord_Hastings" cy="198.34439" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-485.1223"
+                class="id_Margery_Paston" cy="225.84267" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="200.83232"
+                class="id_Richard_Croft" cy="-209.72739" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-11.509988"
+                class="id_William_Paston_III" cy="-164.43631" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="144.01268"
+                class="id_Richard_Lightfoote" cy="371.67435" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-427.50952"
+                class="id_Walter_Paston" cy="414.9209" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-464.54163"
+                class="id_The_Bailiff_Of_Mautby" cy="-208.91751"
+                stroke="#000000" stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#999999" r="10.0" cx="-366.29425"
+                class="id_William_Paston_IV" cy="-164.52994" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="24" x="138.84123" y="64.915405" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Paston_I">
+            William Paston I
+        </text>
+        <text font-size="24" x="-145.56512" y="236.23376" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Stanford">
+            John Stanford
+        </text>
+        <text font-size="24" x="-89.183975" y="416.05453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Worstede">
+            William Worstede
+        </text>
+        <text font-size="24" x="237.16269" y="-462.21725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Longham">
+            John Longham
+        </text>
+        <text font-size="24" x="-43.981697" y="-295.9827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Piers_Shelton">
+            Piers Shelton
+        </text>
+        <text font-size="24" x="302.41003" y="403.87192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Berney">
+            John Berney
+        </text>
+        <text font-size="24" x="117.15826" y="224.36035" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Philip_Berney">
+            Philip Berney
+        </text>
+        <text font-size="24" x="-566.67725" y="-78.38463" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Agnes_Paston">
+            Agnes Paston
+        </text>
+        <text font-size="24" x="-455.03464" y="-295.9387" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edmond_Paston_I">
+            Edmond Paston I
+        </text>
+        <text font-size="24" x="545.5572" y="61.103493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Paston_I">
+            John Paston I
+        </text>
+        <text font-size="24" x="-440.02563" y="-441.69193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Damme">
+            John Damme
+        </text>
+        <text font-size="24" x="78.2691" y="-15.263884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_James_Gresham">
+            James Gresham
+        </text>
+        <text font-size="24" x="430.35822" y="-451.29715" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Norwode">
+            John Norwode
+        </text>
+        <text font-size="24" x="309.36066" y="268.9978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_The_Earl_Of_Oxford">
+            The Earl Of Oxford
+        </text>
+        <text font-size="24" x="19.794973" y="-463.8007" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Sir_John_Fastolf">
+            Sir John Fastolf
+        </text>
+        <text font-size="24" x="-13.438943" y="-55.092804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Margaret_Paston">
+            Margaret Paston
+        </text>
+        <text font-size="24" x="64.34875" y="-94.66794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Pampyng">
+            John Pampyng
+        </text>
+        <text font-size="24" x="-265.19617" y="-25.31659" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Calle">
+            Richard Calle
+        </text>
+        <text font-size="24" x="-94.212135" y="-420.0966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Wykes">
+            John Wykes
+        </text>
+        <text font-size="24" x="523.5633" y="-89.50334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Daubeney">
+            John Daubeney
+        </text>
+        <text font-size="24" x="415.9898" y="-198.3345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edmond_Paston">
+            Edmond Paston
+        </text>
+        <text font-size="24" x="489.73648" y="225.00914" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Paston_II">
+            John Paston II
+        </text>
+        <text font-size="24" x="-407.03268" y="8.303972" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Roos">
+            Richard Roos
+        </text>
+        <text font-size="24" x="19.21807" y="131.16989" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Kyng">
+            John Kyng
+        </text>
+        <text font-size="24" x="504.07156" y="431.20535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Clement_Paston">
+            Clement Paston
+        </text>
+        <text font-size="24" x="485.142" y="343.14124" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial"
+              class="id_Elizabeth_Poynings_or_Browne,_née_Paston">
+            Elizabeth Poynings or Browne, née Paston
+        </text>
+        <text font-size="24" x="-366.15137" y="112.80383" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_John_Paston_III">
+            John Paston III
+        </text>
+        <text font-size="24" x="-128.15436" y="76.52521" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Dame_Elizabeth_Brews">
+            Dame Elizabeth Brews
+        </text>
+        <text font-size="24" x="-320.90265" y="-336.49435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Walter_Writtle">
+            Walter Writtle
+        </text>
+        <text font-size="24" x="603.15295" y="175.44928" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Roger_Townshend">
+            Roger Townshend
+        </text>
+        <text font-size="24" x="330.31274" y="-122.52658" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Edmond_Paston_II">
+            Edmond Paston II
+        </text>
+        <text font-size="24" x="-386.4574" y="-362.52335" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Osbern_Berney">
+            Osbern Berney
+        </text>
+        <text font-size="24" x="-122.16062" y="-315.8134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_The_Duke_Of_Norfolk">
+            The Duke Of Norfolk
+        </text>
+        <text font-size="24" x="-289.99747" y="203.90201" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Lord_Hastings">
+            Lord Hastings
+        </text>
+        <text font-size="24" x="-485.1223" y="231.40028" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Margery_Paston">
+            Margery Paston
+        </text>
+        <text font-size="24" x="200.83232" y="-205.28598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Croft">
+            Richard Croft
+        </text>
+        <text font-size="24" x="-11.509988" y="-160.07108" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Paston_III">
+            William Paston III
+        </text>
+        <text font-size="24" x="144.01268" y="377.3052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Richard_Lightfoote">
+            Richard Lightfoote
+        </text>
+        <text font-size="24" x="-427.50952" y="419.28613" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Walter_Paston">
+            Walter Paston
+        </text>
+        <text font-size="24" x="-464.54163" y="-203.28372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_The_Bailiff_Of_Mautby">
+            The Bailiff Of Mautby
+        </text>
+        <text font-size="24" x="-366.29425" y="-160.1647" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_William_Paston_IV">
+            William Paston IV
+        </text>
+    </g>
+</svg>
